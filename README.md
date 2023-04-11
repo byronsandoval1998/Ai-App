@@ -1,10 +1,6 @@
 # Text-AI
 > A script that takes a text to emulate it.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 This app takes a file that contains text of any kind. It then converts the text into symbols to be used with tensorflow. This is a simple predicting text project.
 The second part of the project is related to scrape a subdirectory in Reddit to generate the predicting text.
 
